@@ -7,7 +7,7 @@ View a list of users with their details
 Update user data
 Delete user data from the list
 
-DEPLOYED LINK:
+DEPLOYED LINK:https://musical-gingersnap-a57868.netlify.app/
 
 Installation and Setup
 Clone the repository:
@@ -22,7 +22,7 @@ npm install
 Start the development server:
 
 npm start
-Open your browser and navigate to http://localhost:3000 to view the application.
+Open your browser and navigate to http://localhost:5174 to view the application.
 
 Technologies Used
 React
