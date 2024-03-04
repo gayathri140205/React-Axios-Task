@@ -1,8 +1,32 @@
-# React + Vite
+CRUD Using Axios
+A simple CRUD (Create, Read, Update, Delete) application built using React and Axios. This project demonstrates how to perform basic CRUD operations on user data.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features
+Add new user data to the list
+View a list of users with their details
+Update user data
+Delete user data from the list
 
-Currently, two official plugins are available:
+DEPLOYED LINK:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Installation and Setup
+Clone the repository:
+
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
+
+Install dependencies:
+npm install
+
+
+Start the development server:
+
+npm start
+Open your browser and navigate to http://localhost:3000 to view the application.
+
+Technologies Used
+React
+Axios
+React Router
+Bootstrap
+Contributing
